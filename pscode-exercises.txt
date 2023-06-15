@@ -1,0 +1,42 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+print 'please input two numbers'
+ set sum to (n1+n2)
+ print 'the sum is'
+ print sum
+
+// Exercise 2: Check if a Number is Even or Odd
+
+print 'input a number'
+set n1
+if (n1)/2 = whole number, set name to Even
+else set name to Odd
+print name
+
+// Exercise 3: Write pseudo code that will perform the following.    
+
+print 'input 5 numbers'
+set n1, n2, n3, n4, n5
+set average to (n1+n2+n3+n4+n5)/5
+
+if num1 < num2 set max to num2 
+else set max to num 1. 
+if num3 > max, set max to num3
+if num4 > max, set max to num4
+if num5 > max, set max to num5
+
+if num2 < num 1, set min to num2
+else set min to num1
+if num3 < min, set min to num3
+if num4 < min, set min to num4
+if num4 < min, set min to num5
+
+
+print 'the smallest number is'
+print min
+print 'the largest number is'
+print max
+print 'the average is' 
+print average
+
+-- END --
